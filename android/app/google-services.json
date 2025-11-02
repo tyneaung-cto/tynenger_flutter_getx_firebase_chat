@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615975445915",
+    "project_id": "tynenger-82ecd",
+    "storage_bucket": "tynenger-82ecd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615975445915:android:98868c7c5a469c230f2d3e",
+        "android_client_info": {
+          "package_name": "com.tyneaung.tynenger_flutter_getx_firebase_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCjdEcSIQ5Luu4GELFm0nMmrL13A25kGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
